@@ -3,7 +3,7 @@ agent any
     stages {
         stage('checkout') {
             steps {
-                git 'https://github.com/D<>/<>.git'
+                git 'https://github.com/D<oshri.shaul>/<O$hikatan8$>.git'
             }
         }
         stage('build') {
